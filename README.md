@@ -14,7 +14,7 @@
 - [Documents](https://github.com/Theocroft/GPN-Intelligence-Cup-2024/blob/main/Documents/ReadME.md) - промежуточные документы по проекту, которые были сформированы как результат каждого этапа работы над кейсом.
 - [Models](https://github.com/Theocroft/GPN-Intelligence-Cup-2024/blob/main/Models/1.%20README.md) - готовые обученные модели.  
 - [Notebooks](https://github.com/Theocroft/GPN-Intelligence-Cup-2024/blob/main/Notebooks/README.md) - Jupyter-ноутбуки, в которых представлен процесс решения кейса.
-- [Reports]() - итоговый отчет по представленному решению. 
+- [Reports](https://github.com/Theocroft/GPN-Intelligence-Cup-2024/blob/main/Reports/README.md) - итоговый отчет по представленному решению. 
 - [Scripts](https://github.com/Theocroft/GPN-Intelligence-Cup-2024/blob/main/Scripts/Model%20save.py) - скрипт для сохранения моделей. 
 
 Каждый раздел имеет свой файл с описание сущностей, которые в нем хранятся.
@@ -33,8 +33,8 @@
 ## Итоговое решение
 
 Итоговое решение включает в себя:
-1. Итоговый отчет о проделанной работе (директория Reports). 
-2. Jupyter Notebook c итоговым решением (директория Reports). 
-3. Скрипт "Model save.py", который сохраняет построенные модели машинного обучения. 
+1. [Итоговый отчет](https://github.com/Theocroft/GPN-Intelligence-Cup-2024/blob/main/Reports/Итоговый%20отчет.md) о проделанной работе (директория Reports). 
+2. [Jupyter Notebook](https://github.com/Theocroft/GPN-Intelligence-Cup-2024/blob/main/Reports/Итоговый%20отчет.ipynb) c итоговым решением (директория Reports). 
+3. [Скрипт](https://github.com/Theocroft/GPN-Intelligence-Cup-2024/blob/main/Scripts/Model%20save.py) "Model save.py", который сохраняет построенные модели машинного обучения. 
 
 Для простоты восприятия в соответствующих директориях представлены разбитые по этапам отчеты. 
