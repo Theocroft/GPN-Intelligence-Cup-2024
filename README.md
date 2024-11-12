@@ -11,11 +11,11 @@
 - [Data](https://github.com/Theocroft/GPN-Intelligence-Cup-2024/blob/main/Data/ReadME.md) - раздел, в котором хранятся данные для кейса.
   - Raw - необработанные данные, которые представлены организаторами для кейса.
   - Processed - предобработанные данные, готовые для построения моделей и прогнозирования. 
-- Documents - промежуточные документы по проекту, которые были сформированы как результат каждого этапа работы над кейсом.
-- Models - готовые обученные модели.  
-- Notebooks - Jupyter-ноутбуки, в которых представлен процесс решения кейса.
-- Reports - итоговый отчет по представленному решению. 
-- Scripts - скрипт для сохранения моделей. 
+- [Documents](https://github.com/Theocroft/GPN-Intelligence-Cup-2024/blob/main/Documents/ReadME.md) - промежуточные документы по проекту, которые были сформированы как результат каждого этапа работы над кейсом.
+- [Models](https://github.com/Theocroft/GPN-Intelligence-Cup-2024/blob/main/Models/1.%20README.md) - готовые обученные модели.  
+- [Notebooks](https://github.com/Theocroft/GPN-Intelligence-Cup-2024/blob/main/Notebooks/README.md) - Jupyter-ноутбуки, в которых представлен процесс решения кейса.
+- [Reports]() - итоговый отчет по представленному решению. 
+- [Scripts](https://github.com/Theocroft/GPN-Intelligence-Cup-2024/blob/main/Scripts/Model%20save.py) - скрипт для сохранения моделей. 
 
 Каждый раздел имеет свой файл с описание сущностей, которые в нем хранятся.
 
